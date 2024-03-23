@@ -9,9 +9,6 @@
 - [How To Run](#how-to-run)
 - [Contributors](#contributors)
 
-## Introduction
-A crossword is a word puzzle that usually takes the form of a square or a rectangular grid of white-and black-shaded squares. The game's goal is to fill the white squares with letters, forming words or phrases, by solving clues, which lead to the answers.
-
 
 ## Features:
 
@@ -115,11 +112,6 @@ Open your web browser and go to `http://127.0.0.1:8000/` to view the application
       <td align="center">
         <a href="https://github.com/sumukhakambaloor">
           <sub><b>sumukhakambaloor</b></sub>
-        </a>
-      </td>
-       <td align="center">
-        <a href="https://github.com/loki2107">
-          <sub><b>LOKESH E</b></sub>
         </a>
       </td>
       <td align="center">
